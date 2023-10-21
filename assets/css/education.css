@@ -389,14 +389,14 @@ header p {
   content: "";
   background: #C5CAE9;
   width: 5px;
-  height: 95%;
+  height: 79%;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
 }
 
 .timeline-item {
-  width: 100%;
+  width: 99%;
   margin-bottom: 70px;
 }
 
