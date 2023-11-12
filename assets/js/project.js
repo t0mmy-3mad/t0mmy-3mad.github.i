@@ -6,8 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title:
-      "Snake Game (PC ONLY)<br> A simple snake game built with html/css/js",
+    title: "Snake Game (PC ONLY)<br> A simple snake game",
     cardImage: "assets/images/project-page/snako.png",
     description: "A simple snake game built with html/css/js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
